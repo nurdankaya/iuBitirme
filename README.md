@@ -2,8 +2,12 @@
 font classification and page layout editor
 
 
-install anaconda
+- clone the project
 
-move .ipynp files under C:\Users\username
+- install anaconda
 
-write "jupyter notebook" in cmd
+- move .ipynp files under C:\Users\username
+
+- write "jupyter notebook" in cmd
+
+- open .ipynb file and change the dataset paths
